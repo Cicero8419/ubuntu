@@ -7,10 +7,10 @@ sudo apt-get update
 
 #mostrando a data e hora
 date
-cal 1 9 1983
+cal -3
 
 
 #criando uma pasta
-mkdir pasta_pessoal > ~/home
+mkdir ~/ pasta_pessoal
 
 
