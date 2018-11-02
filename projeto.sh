@@ -5,7 +5,7 @@
 #Atualiazão
 sudo apt-get update
 
-mostrando a hora
+#mostrando a hora
 date 1 11 2018
 
 #criando uma pasta
