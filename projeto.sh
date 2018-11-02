@@ -5,8 +5,10 @@
 #Atualiazão
 sudo apt-get update
 
-#mostrando a hora
-date 1 11 2018
+#mostrando a data e hora
+date
+cal 1 9 1983
+
 
 #criando uma pasta
 mkdir pasta_pessoal > ~/home
